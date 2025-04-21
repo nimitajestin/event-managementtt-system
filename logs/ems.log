@@ -1,0 +1,196 @@
+Apr 21, 2025 10:58:42 PM utils.LoggerConfig configureLogger
+INFO: Logger configured successfully
+Apr 21, 2025 10:58:42 PM App main
+INFO: Starting Event Management System application
+Apr 21, 2025 10:58:42 PM ui.SplashScreen waitForLoading
+INFO: Waiting for splash screen loading to complete...
+Apr 21, 2025 10:58:47 PM ui.SplashScreen$3 actionPerformed
+INFO: Splash screen loading completed
+Apr 21, 2025 10:58:47 PM ui.SplashScreen waitForLoading
+INFO: Splash screen loading wait completed
+Apr 21, 2025 10:58:47 PM ui.LoginFrame <init>
+SEVERE: Error initializing LoginFrame
+java.lang.NullPointerException: Cannot invoke "java.net.URL.toExternalForm()" because "location" is null
+	at java.desktop/javax.swing.ImageIcon.<init>(ImageIcon.java:232)
+	at ui.LoginFrame.<init>(LoginFrame.java:100)
+	at App.lambda$3(App.java:57)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+Apr 21, 2025 10:59:15 PM utils.LoggerConfig configureLogger
+INFO: Logger configured successfully
+Apr 21, 2025 10:59:15 PM App main
+INFO: Starting Event Management System application
+Apr 21, 2025 10:59:16 PM ui.SplashScreen waitForLoading
+INFO: Waiting for splash screen loading to complete...
+Apr 21, 2025 10:59:20 PM ui.SplashScreen$3 actionPerformed
+INFO: Splash screen loading completed
+Apr 21, 2025 10:59:20 PM ui.SplashScreen waitForLoading
+INFO: Splash screen loading wait completed
+Apr 21, 2025 10:59:21 PM ui.LoginFrame <init>
+SEVERE: Error initializing LoginFrame
+java.lang.NullPointerException: Cannot invoke "java.net.URL.toExternalForm()" because "location" is null
+	at java.desktop/javax.swing.ImageIcon.<init>(ImageIcon.java:232)
+	at ui.LoginFrame.<init>(LoginFrame.java:100)
+	at App.lambda$3(App.java:57)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+Apr 21, 2025 11:03:28 PM utils.LoggerConfig configureLogger
+INFO: Logger configured successfully
+Apr 21, 2025 11:03:28 PM App main
+INFO: Starting Event Management System application
+Apr 21, 2025 11:03:29 PM ui.SplashScreen waitForLoading
+INFO: Waiting for splash screen loading to complete...
+Apr 21, 2025 11:03:33 PM ui.SplashScreen$3 actionPerformed
+INFO: Splash screen loading completed
+Apr 21, 2025 11:03:33 PM ui.SplashScreen waitForLoading
+INFO: Splash screen loading wait completed
+Apr 21, 2025 11:10:01 PM utils.LoggerConfig configureLogger
+INFO: Logger configured successfully
+Apr 21, 2025 11:10:01 PM App main
+INFO: Starting Event Management System application
+Apr 21, 2025 11:10:02 PM ui.SplashScreen waitForLoading
+INFO: Waiting for splash screen loading to complete...
+Apr 21, 2025 11:10:06 PM ui.SplashScreen$3 actionPerformed
+INFO: Splash screen loading completed
+Apr 21, 2025 11:10:06 PM ui.SplashScreen waitForLoading
+INFO: Splash screen loading wait completed
+Apr 21, 2025 11:13:32 PM utils.LoggerConfig configureLogger
+INFO: Logger configured successfully
+Apr 21, 2025 11:13:32 PM App main
+INFO: Starting Event Management System application
+Apr 21, 2025 11:13:32 PM ui.SplashScreen waitForLoading
+INFO: Waiting for splash screen loading to complete...
+Apr 21, 2025 11:13:37 PM ui.SplashScreen$3 actionPerformed
+INFO: Splash screen loading completed
+Apr 21, 2025 11:13:37 PM ui.SplashScreen waitForLoading
+INFO: Splash screen loading wait completed
+Apr 21, 2025 11:19:24 PM utils.LoggerConfig configureLogger
+INFO: Logger configured successfully
+Apr 21, 2025 11:19:24 PM App main
+INFO: Starting Event Management System application
+Apr 21, 2025 11:19:24 PM ui.SplashScreen waitForLoading
+INFO: Waiting for splash screen loading to complete...
+Apr 21, 2025 11:19:29 PM ui.SplashScreen$3 actionPerformed
+INFO: Splash screen loading completed
+Apr 21, 2025 11:19:29 PM ui.SplashScreen waitForLoading
+INFO: Splash screen loading wait completed
+Apr 21, 2025 11:36:49 PM utils.LoggerConfig configureLogger
+INFO: Logger configured successfully
+Apr 21, 2025 11:36:49 PM App main
+INFO: Starting Event Management System application
+Apr 21, 2025 11:36:49 PM ui.SplashScreen waitForLoading
+INFO: Waiting for splash screen loading to complete...
+Apr 21, 2025 11:36:54 PM ui.SplashScreen$3 actionPerformed
+INFO: Splash screen loading completed
+Apr 21, 2025 11:36:54 PM ui.SplashScreen waitForLoading
+INFO: Splash screen loading wait completed
+Apr 21, 2025 11:51:52 PM utils.LoggerConfig configureLogger
+INFO: Logger configured successfully
+Apr 21, 2025 11:51:52 PM App main
+INFO: Starting Event Management System application
+Apr 21, 2025 11:51:52 PM ui.SplashScreen waitForLoading
+INFO: Waiting for splash screen loading to complete...
+Apr 21, 2025 11:51:57 PM ui.SplashScreen$3 actionPerformed
+INFO: Splash screen loading completed
+Apr 21, 2025 11:51:57 PM ui.SplashScreen waitForLoading
+INFO: Splash screen loading wait completed
+Apr 21, 2025 11:51:57 PM ui.LoginFrame <init>
+SEVERE: Error initializing LoginFrame
+java.lang.NullPointerException: Cannot read field "parent" because "comp" is null
+	at java.desktop/java.awt.Container.addImpl(Container.java:1121)
+	at java.desktop/java.awt.Container.add(Container.java:440)
+	at ui.LoginFrame.<init>(LoginFrame.java:174)
+	at App.lambda$3(App.java:57)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+Apr 21, 2025 11:52:58 PM utils.LoggerConfig configureLogger
+INFO: Logger configured successfully
+Apr 21, 2025 11:52:58 PM App main
+INFO: Starting Event Management System application
+Apr 21, 2025 11:52:58 PM ui.SplashScreen waitForLoading
+INFO: Waiting for splash screen loading to complete...
+Apr 21, 2025 11:53:03 PM ui.SplashScreen$3 actionPerformed
+INFO: Splash screen loading completed
+Apr 21, 2025 11:53:03 PM ui.SplashScreen waitForLoading
+INFO: Splash screen loading wait completed
+Apr 21, 2025 11:53:04 PM ui.LoginFrame <init>
+SEVERE: Error initializing LoginFrame
+java.lang.NullPointerException: Cannot read field "parent" because "comp" is null
+	at java.desktop/java.awt.Container.addImpl(Container.java:1121)
+	at java.desktop/java.awt.Container.add(Container.java:440)
+	at ui.LoginFrame.<init>(LoginFrame.java:174)
+	at App.lambda$3(App.java:57)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+Apr 22, 2025 12:05:46 AM utils.LoggerConfig configureLogger
+INFO: Logger configured successfully
+Apr 22, 2025 12:05:46 AM App main
+INFO: Starting Event Management System application
+Apr 22, 2025 12:05:47 AM ui.SplashScreen waitForLoading
+INFO: Waiting for splash screen loading to complete...
+Apr 22, 2025 12:05:51 AM ui.SplashScreen$3 actionPerformed
+INFO: Splash screen loading completed
+Apr 22, 2025 12:05:52 AM ui.SplashScreen waitForLoading
+INFO: Splash screen loading wait completed
+Apr 22, 2025 2:56:30 AM utils.LoggerConfig configureLogger
+INFO: Logger configured successfully
+Apr 22, 2025 2:56:30 AM App main
+INFO: Starting Event Management System application
+Apr 22, 2025 2:56:30 AM ui.SplashScreen waitForLoading
+INFO: Waiting for splash screen loading to complete...
+Apr 22, 2025 2:56:35 AM ui.SplashScreen$3 actionPerformed
+INFO: Splash screen loading completed
+Apr 22, 2025 2:56:35 AM ui.SplashScreen waitForLoading
+INFO: Splash screen loading wait completed
+Apr 22, 2025 2:56:36 AM ui.MainFrame initializeServices
+INFO: Initializing services...
+Apr 22, 2025 2:56:36 AM ui.MainFrame initializeServices
+INFO: Services initialized successfully

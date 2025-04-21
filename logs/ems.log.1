@@ -1,0 +1,31 @@
+Apr 21, 2025 11:52:35 PM utils.LoggerConfig configureLogger
+INFO: Logger configured successfully
+Apr 21, 2025 11:52:35 PM App main
+INFO: Starting Event Management System application
+Apr 21, 2025 11:52:35 PM ui.SplashScreen waitForLoading
+INFO: Waiting for splash screen loading to complete...
+Apr 21, 2025 11:52:40 PM ui.SplashScreen$3 actionPerformed
+INFO: Splash screen loading completed
+Apr 21, 2025 11:52:40 PM ui.SplashScreen waitForLoading
+INFO: Splash screen loading wait completed
+Apr 21, 2025 11:52:41 PM ui.LoginFrame <init>
+SEVERE: Error initializing LoginFrame
+java.lang.NullPointerException: Cannot read field "parent" because "comp" is null
+	at java.desktop/java.awt.Container.addImpl(Container.java:1121)
+	at java.desktop/java.awt.Container.add(Container.java:440)
+	at ui.LoginFrame.<init>(LoginFrame.java:174)
+	at App.lambda$3(App.java:57)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+

@@ -1,0 +1,13 @@
+# Database Connection Properties
+# Copy this file to db.properties and update with your database settings
+
+# MySQL Database Driver
+db.driver=com.mysql.cj.jdbc.Driver
+
+# Database Connection URL
+# Format: jdbc:mysql://[host]:[port]/[database_name]
+db.url=jdbc:mysql://localhost:3306/CLUB_NORMALISED
+
+# Database Credentials
+db.username=your_username
+db.password=your_password
