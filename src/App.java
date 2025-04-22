@@ -6,7 +6,7 @@ import exception.ServiceInitializationException;
 import exception.ValidationException;
 
 public class App {
-    
+
     public static void main(String[] args) {
         
         // Set up specific exception handling for different exception types
