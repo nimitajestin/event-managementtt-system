@@ -1,12 +1,11 @@
 package db;
 
 import exception.DatabaseException;
-import utils.ConfigLoader;
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.Properties;
+import utils.ConfigLoader;
 
 public class DBConnection {
     private static Connection connection = null;
@@ -32,6 +31,7 @@ public class DBConnection {
         } catch (ClassNotFoundException e) {
             throw new DatabaseException("Database driver not found", e);
         } catch (SQLException e) {
+            e.printStackTrace();
             throw new DatabaseException("Failed to connect to database", e);
         }
     }
